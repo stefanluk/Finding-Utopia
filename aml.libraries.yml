@@ -1,0 +1,11 @@
+global:
+  version: 1.0
+  css:
+    base:
+      css/style.css: {}
+  js:
+    js/custom.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
+    - core/modernizr
